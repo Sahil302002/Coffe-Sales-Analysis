@@ -23,8 +23,9 @@ This project involves a detailed analysis of retail sales data for a coffee shop
     - Highlights best-selling products, including Barista Espresso, Brewed Black Tea, and Brewed Chai Tea.
 - **Weekday Sales Trends:**
     - Analyzes foot traffic trends, with Fridays being the busiest day, and identifies potential for weekend-specific promotions.
--  - The Excel analysis file containing all calculations, charts, and insights.
-
+  
+ - The Excel analysis file containing all calculations, charts, and insights.
+<a href = "CoffeeShop_Sales_Dashboard.xlsm">Dashboard_File</a>
 ### Recommendations:
 
 - Focus on peak sales hours by optimizing staffing and inventory for high-demand periods (8 AM - 11 AM).
