@@ -2,7 +2,8 @@
 
 This project involves a detailed analysis of retail sales data for a coffee shop, aiming to uncover valuable insights to optimize business operations and improve profitability. The analysis, conducted using Excel, covers various aspects of sales performance, including peak sales periods, best-selling products, and store-specific performance. The insights derived from this dashboard can help decision-makers improve staffing, inventory management, customer engagement, and overall sales strategies.
 
--  The sales dataset used for analysis.
+-  The sales dataset used for analysis
+-  <a href = "Coffee Shop Sales.xlsx">CoffeeShopDataset</a>
 
 ### Key Features and Metrics:
 
