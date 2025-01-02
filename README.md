@@ -35,4 +35,6 @@ This project involves a detailed analysis of retail sales data for a coffee shop
 - Implement location-specific strategies for areas like Lower Manhattan to boost sales performance.
 - Use upselling techniques to increase the average order value, currently at 1.44 orders per person.
 
-### A visual representation of the Coffee Shop Sales Dashboard.
+### A visual representation of the Coffee Shop Sales 
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/599b4918-4380-42cb-9d8c-09f097d1ce73)
+
